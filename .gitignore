@@ -4,6 +4,7 @@
 *.VC.db
 *.opendb
 *.sdf
+*.icph
 
 Debug/
 Release/
